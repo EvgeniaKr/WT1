@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="lP9:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/lP9_jar</output-path>
+    <root id="archive" name="LP9.jar">
+      <element id="module-output" name="l1" />
+    </root>
+  </artifact>
+</component>
